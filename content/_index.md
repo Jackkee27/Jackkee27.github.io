@@ -25,6 +25,6 @@ toc: false
         max-width: 600px;                      /* 限制最大宽度，避免太宽 */
     ">
         {{< card link="blog" title="Blog" icon="book-open" >}}
-        {{< card link="about/about" title="About" icon="user" >}}
+        {{< card link="about" title="About" icon="user" >}}
     </div>
 </div>
