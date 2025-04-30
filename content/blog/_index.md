@@ -1,7 +1,6 @@
 ---
 title: Blogs
 type: default
-toc: false
 breadcrumbs: true
 ---
 
