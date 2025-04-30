@@ -1,13 +1,10 @@
 ---
-title: Go-Zero
+title: Middleware & Interceptor
 type: blog
 prev: blog/
 sidebar:
   open: true
 ---
-# Go-Zero
-
-# Middleware & Interceptor
 
 ## Middleware 中间件：API 层
 
@@ -71,14 +68,17 @@ sidebar:
 
 ## Intercepter 拦截器：gRPC 层
 
-<aside>
-⚠️
-
+{{< callout type="warning" >}}
 API 层和 RPC 层之间不能直接使用 context 来传数据，需要使用 metadata 来处理。
 
 这里仅以最普通的一元拦截器 `UnaryInterceptors` 为例。
+{{< /callout >}}
 
-</aside>
+
+
+
+
+
 
 [gRPC（六）进阶：拦截器 interceptor | Go 技术论坛](https://learnku.com/articles/73106)
 

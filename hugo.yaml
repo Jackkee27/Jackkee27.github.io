@@ -57,3 +57,12 @@ params:
   editURL:
     enable: true
     base: "https://github.com/Jackkee27/Jackkee27.github.io/edit/main/content"
+
+defaultContentLanguage: zh-cn
+languages:
+  en:
+    languageName: English
+    weight: 2
+  zh-cn:
+    languageName: 中文（简体）
+    weight: 1
