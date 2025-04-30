@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: JKL27
 
 # import hextra as module
 module:
@@ -18,6 +18,9 @@ markup:
 
 menu:
   main:
+    - name: Blog
+      pageRef: /blog
+      weight: 0
     - name: Docs
       pageRef: /docs
       weight: 1
@@ -25,7 +28,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "https://github.com/Jackkee27"
       weight: 3
     - name: Search
       weight: 4
@@ -33,24 +36,24 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/Jackkee27/Jackkee27.github.io"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+#    - name: Twitter
+#      weight: 6
+#      url: "https://twitter.com/"
+#      params:
+#        icon: x-twitter
 
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: true
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/Jackkee27/Jackkee27.github.io/edit/main/content"
