@@ -51,8 +51,11 @@ params:
     displayLogo: true
 
   footer:
+    copyright: Jackkee Li
     displayCopyright: true
     displayPoweredBy: true
+
+  copyright: Jackkee Li
 
   editURL:
     enable: true
