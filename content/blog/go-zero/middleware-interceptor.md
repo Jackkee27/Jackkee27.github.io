@@ -1,10 +1,12 @@
 ---
 title: Middleware & Interceptor
-type: blogs
-prev: blogs/
+type: blog
+prev: blog/
 sidebar:
   open: true
 ---
+
+这篇文章介绍了关于在 Go Zero 中使用 middleware 和 interceptor 的一些方法。
 
 ## Middleware 中间件：API 层
 
