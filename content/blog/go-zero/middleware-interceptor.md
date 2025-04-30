@@ -2,7 +2,6 @@
 title: Middleware & Interceptor
 type: blog
 prev: blog/go-zero
-next: blog/go-zero
 date: 2025-04-30
 authors:
   - name: Jackkee Li

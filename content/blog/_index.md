@@ -10,4 +10,4 @@ toc: false
   {{< card link="go-zero" title="Go Zero" image="./images/go-zero.png" subtitle="Blogs about go zero" >}}
 {{< /cards >}}
 
-## Recent Articles
+## Recent Posts
