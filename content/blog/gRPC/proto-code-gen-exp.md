@@ -132,10 +132,10 @@ func (x *UserCreateResponse) GetUserId() uint32 {
 
     - `{service_name}Client`
 
-      ![client-interface](./images/client-interface.png)
+      ![client-interface](images/client-interface.png)
 
 - 一个接口类型，供 Server 端实现，也包含在服务中定义的方法。
 
     - `{service_name}Server`
 
-      ![server-interface](./images/server-interface.png)
+      ![server-interface](images/server-interface.png)
