@@ -1,7 +1,7 @@
 ---
 title: Middleware & Interceptor
-type: blog
-prev: blog/
+type: blogs
+prev: blogs/
 sidebar:
   open: true
 ---
