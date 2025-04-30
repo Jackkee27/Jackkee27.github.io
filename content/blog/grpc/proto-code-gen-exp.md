@@ -1,7 +1,7 @@
 ---
 title: Proto Code Generation Explanation
 type: blog
-prev: blog/gRPC
+prev: blog/grpc
 date: 2025-04-30
 authors:
   - name: Jackkee Li
