@@ -17,6 +17,7 @@ toc: false
     <h2 style="margin-bottom: 2rem;">Explore</h2>
     <!-- 四宫格卡片容器 -->
     <div style="
+        text-decoration: none !important;
         display: grid;
         grid-template-columns: repeat(2, 1fr); /* 2列 */
         grid-template-rows: repeat(2, 1fr);    /* 2行 */
