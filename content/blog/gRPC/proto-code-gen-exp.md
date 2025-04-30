@@ -27,7 +27,7 @@ sidebar:
     - 使用 Get 方法，可以避免直接调用带来的潜在空指针错误。
 - 序列化、检索这些响应和请求的方法。
 
-{{< callout type="warning" >}} 💡
+{{< callout type="info" >}} 
 
 
 以 users 服务的 `UserCreate` 方法为例，其生成的 `users.pb.go` 中包含以下和请求、响应有关的信息：
@@ -132,10 +132,10 @@ func (x *UserCreateResponse) GetUserId() uint32 {
 
     - `{service_name}Client`
 
-      ![client-interface](images/client-interface.png)
+        <img src="./images/client-interface.png" alt="client-interface" title="client-interface" />
 
 - 一个接口类型，供 Server 端实现，也包含在服务中定义的方法。
 
     - `{service_name}Server`
 
-      ![server-interface](images/server-interface.png)
+      <img src="./images/server-interface.png" alt="server-interface" title="server-interface" />
