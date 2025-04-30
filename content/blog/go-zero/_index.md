@@ -1,7 +1,7 @@
 ---
 title: Go Zero
 type: default
-toc: true
+toc: false
 ---
 
 Here are blogs about [Go Zero](https://go-zero.dev)
