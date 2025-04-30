@@ -3,12 +3,17 @@ title: Middleware & Interceptor
 type: blog
 prev: blog/go-zero
 next: blog/go-zero
+date: 2025-04-30
+authors:
+  - name: Jackkee Li
+    link: https://github.com/Jackkee27
 sidebar:
   open: true
 ---
 
 这篇文章介绍了关于在 Go Zero 中使用 middleware 和 interceptor 的一些方法。
 
+<!--more-->
 
 ## Middleware 中间件：API 层
 
