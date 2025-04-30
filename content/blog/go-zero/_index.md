@@ -1,6 +1,6 @@
 ---
-title: Go Zero
-type: default
+title: "Go Zero"
+type: blog
 toc: false
 ---
 
