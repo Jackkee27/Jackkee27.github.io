@@ -20,10 +20,10 @@ menu:
   main:
     - name: Blog
       pageRef: /blog
-      weight: 0
-    - name: Docs
-      pageRef: /docs
       weight: 1
+#    - name: Docs
+#      pageRef: /docs
+#      weight: 1
     - name: About
       pageRef: /about
       weight: 2
