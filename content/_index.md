@@ -17,10 +17,10 @@ toc: false
     <h2 style="margin-bottom: 2rem;">Explore</h2>
     <!-- 四宫格卡片容器 -->
     <div style="
-        text-decoration: none !important;
+        border-bottom: none !important;
         display: grid;
         grid-template-columns: repeat(2, 1fr); /* 2列 */
-        grid-template-rows: repeat(2, 1fr);    /* 2行 */
+        grid-template-rows: repeat(1, 1fr);    /* 1行 */
         gap: 20px;                             /* 卡片间距 */
         width: 100%;
         max-width: 600px;                      /* 限制最大宽度，避免太宽 */
