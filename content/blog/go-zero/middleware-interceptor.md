@@ -1,7 +1,8 @@
 ---
 title: Middleware & Interceptor
 type: blog
-prev: blog/
+prev: blog/go-zero
+next: blog/go-zero
 sidebar:
   open: true
 ---

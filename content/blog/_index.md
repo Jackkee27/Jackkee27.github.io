@@ -1,5 +1,6 @@
 ---
 title: JKL27
+type: default
 toc: false
 ---
 

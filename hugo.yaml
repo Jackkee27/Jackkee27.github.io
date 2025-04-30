@@ -60,3 +60,14 @@ params:
   editURL:
     enable: true
     base: "https://github.com/Jackkee27/Jackkee27.github.io/edit/main/content"
+
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
